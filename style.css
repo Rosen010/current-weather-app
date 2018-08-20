@@ -1,0 +1,8 @@
+body {
+    background-image: url('img/miui-8-2560x1440-rainy-weather-background-minimal-hd-10471.png');
+    background-size: cover;
+}
+
+.container {
+    opacity: 0.8;
+}
